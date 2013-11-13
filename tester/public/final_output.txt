@@ -1,0 +1,29 @@
+
+자유롭게
+
+##
+
+#include<stdio.h>
+
+void main(void){
+printf("rubydogs가 정상적으로 실행되었습니다");
+}
+
+##
+
+
+
+// print start 
+rubydogs가 정상적으로 실행되었습니다
+// print end 
+
+
+// print start 
+rubydogs가 정상적으로 실행되었습니다
+// print end 
+
+
+// print start 
+rubydogs가 정상적으로 실행되었습니다
+// print end 
+
